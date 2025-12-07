@@ -1,9 +1,9 @@
-📘 Java Learning Journey
+<h1><b>📘 Java Learning Journey</b></h1>h1>
 
 This repository documents my journey of learning Java from scratch, covering everything from basic syntax to object-oriented programming and problem-solving.
 It includes practice programs, notes, exercises, and small projects that I build as I progress.
 
-🚀 What’s inside?
+<b>🚀 What’s inside?</b>
 
 ✔ Basic Java syntax
 
@@ -25,7 +25,7 @@ It includes practice programs, notes, exercises, and small projects that I build
 
 ✔ Clean, commented code to track progress
 
-🎯 Purpose of this repository
+<b>🎯 Purpose of this repository</b>
 
 To track my growth as a Java developer
 
