@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class Array1 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int size = sc.nextInt();
+        int[] marks = new int[size];
+        for(int i=0; i<size; i++){
+            marks[i] = sc.nextInt(); //input
+        }
+        int x = sc.nextInt();
+
+        for(int i=0; i<size; i++){ //output
+            System.out.println(marks[i]);
+            if (marks[i] == x) {
+                
+                System.out.println(marks[i]);
+            }
+        }
+        sc.close();
+    }
+}

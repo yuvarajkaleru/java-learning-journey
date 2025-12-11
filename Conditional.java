@@ -49,5 +49,6 @@ public class Conditional {
                     break;
             default: System.out.println("Invalid Button");
         }
+        sc.close();
         }
 }
