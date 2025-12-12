@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class TwoDArray {
+public class Twodarray1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
         int rows = sc.nextInt();
@@ -14,8 +14,15 @@ public class TwoDArray {
             for(int j=0; j< cols; j++){
                 System.out.print(numbers[i][j] + " ");
             }
-            System.out.println();
+            int x = sc.nextInt();
+            for(int j=0; j< cols; j++){
+                if(numbers[i][j] == x){
+                    System.out.println("Found at index: " + i + ", " + j);
+                }
+            }
         }
         sc.close();
     }
 }
+
+
