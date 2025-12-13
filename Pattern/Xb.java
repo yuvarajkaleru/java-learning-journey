@@ -10,9 +10,9 @@ public class Xb {
                 // else if (i==3 && (j==2||j==3||j==4)) {  this is added by me to print yyy in the middle
                 //     System.out.print("y ");
                 // }
-            else { //make a tab space for this else loo to use my yyy in middle code and make the else if code work
-                System.out.print("  ");
-            }
+                else {
+                    System.out.print("  ");
+                }
             }
             System.out.println(" ");
         }
